@@ -6,10 +6,19 @@
     <description>Recent content on Rock Foxes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jul 2018 07:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shanonana.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing New Title</title>
+      <link>https://shanonana.github.io/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 29 Jul 2018 07:00:00 +0000</pubDate>
+      
+      <guid>https://shanonana.github.io/blog/creating-a-new-theme/</guid>
+      <description>Hi Shan! This is where you would write your post</description>
+    </item>
     
     <item>
       <title>Fancy App 1</title>
@@ -45,15 +54,6 @@
       
       <guid>https://shanonana.github.io/itemized/item4/</guid>
       <description> App 4 </description>
-    </item>
-    
-    <item>
-      <title>Testing New Title</title>
-      <link>https://shanonana.github.io/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shanonana.github.io/blog/creating-a-new-theme/</guid>
-      <description>Hi Shan! This is where you would write your post</description>
     </item>
     
     <item>
