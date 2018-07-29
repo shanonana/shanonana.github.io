@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Rock Foxes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jul 2018 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jul 2018 08:36:56 +0000</lastBuildDate>
     
 	<atom:link href="https://shanonana.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://shanonana.github.io/blog/test/</link>
+      <pubDate>Sun, 29 Jul 2018 08:36:56 +0000</pubDate>
+      
+      <guid>https://shanonana.github.io/blog/test/</guid>
+      <description> Good morning, bebo! </description>
+    </item>
     
     <item>
       <title>Testing New Title</title>
