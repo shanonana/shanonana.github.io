@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://shanonana.github.io/blog/test/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shanonana.github.io/itemized/item1/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
@@ -91,10 +96,6 @@
   <url>
     <loc>https://shanonana.github.io/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shanonana.github.io/blog/test/</loc>
   </url>
   
   <url>
